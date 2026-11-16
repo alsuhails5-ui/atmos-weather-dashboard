@@ -1,3 +1,4 @@
+import './style.css'
 const API_ROOT = "https://api.openweathermap.org";
 const $ = (id) => document.getElementById(id);
 
